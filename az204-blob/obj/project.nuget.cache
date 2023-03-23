@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "SNvRGMaocqg8bJ0knbWf4I9EKQYo/EBhCJk5ZF9XTUG2RTs1Ad7wCVf8Tw70Kzm+ielO/FOd/Gc2L+b1yrMHdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\levi.santos\\source\\repos\\az204-blob\\az204-blob\\az204-blob.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\levi.santos\\.nuget\\packages\\azure.core\\1.28.0\\azure.core.1.28.0.nupkg.sha512",
+    "C:\\Users\\levi.santos\\.nuget\\packages\\azure.storage.blobs\\12.15.0\\azure.storage.blobs.12.15.0.nupkg.sha512",
+    "C:\\Users\\levi.santos\\.nuget\\packages\\azure.storage.common\\12.14.0\\azure.storage.common.12.14.0.nupkg.sha512",
+    "C:\\Users\\levi.santos\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\levi.santos\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\levi.santos\\.nuget\\packages\\microsoft.extensions.features\\6.0.0\\microsoft.extensions.features.6.0.0.nupkg.sha512",
+    "C:\\Users\\levi.santos\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\levi.santos\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\levi.santos\\.nuget\\packages\\system.io.hashing\\6.0.0\\system.io.hashing.6.0.0.nupkg.sha512",
+    "C:\\Users\\levi.santos\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\levi.santos\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\levi.santos\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\levi.santos\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\levi.santos\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\levi.santos\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
